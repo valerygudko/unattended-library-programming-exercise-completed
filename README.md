@@ -32,7 +32,7 @@ This exercise completes acceptance criteria for the implementation of book servi
     * Example value of response | Book
 
     ```
-    {git branch -M main
+    {
         "reference": "BOOK-GRUFF472",
         "title": "The Gruffalo",
         "review": "A mouse taking a walk in the woods."
