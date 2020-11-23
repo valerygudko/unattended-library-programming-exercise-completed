@@ -1,4 +1,4 @@
-git statgit gtii# Unattended-library-programming-exercise
+# Unattended-library-programming-exercise
 
 This exercise completes acceptance criteria for the implementation of book service interface. The book service can also be called from the api and uses in-memory H2 db for the book repository with pre-loaded data from data.sql. 
 
